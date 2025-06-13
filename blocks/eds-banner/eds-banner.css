@@ -1,0 +1,10 @@
+.eds-banner {
+  img {
+    width: 100%;
+  }
+
+  .columns-title-col {
+    background-color: blue;
+    color: white;
+  }
+}
