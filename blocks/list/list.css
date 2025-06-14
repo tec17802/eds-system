@@ -1,0 +1,9 @@
+/* stylelint-disable no-empty-source */
+.list {
+    table {
+        th {
+            width: 150px;
+            text-align: left;
+        }
+    }
+}
